@@ -30,3 +30,12 @@ Here are some items I am using.
 ✨ GitHub Stats ✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinoet&count_private=true&show_icons=true&theme=merko)
+---
+
+Interests
+
+- Containers
+- Automation
+- Open Source Software
+- Coffee
+- Aquariums
