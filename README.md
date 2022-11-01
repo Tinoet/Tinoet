@@ -16,4 +16,4 @@ I'm a client End developer, Marine Engineer and a Software engineer
 
 ---
 
-| 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinoet&show_icons=true&include_all_commits=true&hide_border=true" alt="Tinoet's GitHub stats" /> | <img align="center"
