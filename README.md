@@ -17,3 +17,16 @@ I'm a client End developer, Marine Engineer and a Software engineer
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinoet&show_icons=true&include_all_commits=true&hide_border=true" alt="Tinoet's GitHub stats" /> | <img align="center"
+---
+Here are some items I am using.
+
+- [Helm](https://github.com/helm/helm)
+- [Branch Deploy](https://github.com/GrantBirki/branch-deploy)
+- [Garden](https://github.com/garden-io/garden)
+- [Act](https://github.com/tinoet/act)
+
+---
+
+✨ GitHub Stats ✨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinoet&count_private=true&show_icons=true&theme=merko)
